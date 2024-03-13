@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body{
+  height: 100vh;
+  width: 100vw;
+  background:linear-gradient(180deg, #807ECE 0%, #8E7ECE 100%);
+}
